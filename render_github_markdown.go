@@ -155,8 +155,6 @@ var docTemplate = `
         }
         img {
             max-width: 100%;
-            display: block;
-            margin: .75em auto;
         }
     </style>
 </head>
