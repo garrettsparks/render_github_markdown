@@ -131,7 +131,7 @@ func newWebDoc(title string, body string) docBuilder {
 func newPDFDoc(title string, body string) docBuilder {
 	return docBuilder{
 		title,
-		"1.0em",
+		"0.9em",
 		"1.3em",
 		body,
 	}
