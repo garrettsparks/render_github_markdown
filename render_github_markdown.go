@@ -151,6 +151,7 @@ var docTemplate = `
             max-width: 45em;
             margin: auto;
             padding: 0 2%;
+	    font-family: system-ui;
         }
         img {
             max-width: 100%;
