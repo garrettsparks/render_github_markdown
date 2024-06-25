@@ -155,6 +155,8 @@ var docTemplate = `
         }
         img {
             max-width: 100%;
+            margin-left: 0.5em;
+            vertical-align: -0.3em;
         }
     </style>
 </head>
